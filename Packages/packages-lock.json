@@ -40,7 +40,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "1a944a638c9095ac07fcadd59ae61063df81aba9"
+      "hash": "430b52cf6fa8d606edc84cf8e95cbd059bc61c62"
     },
     "be.eloistree.license": {
       "version": "https://github.com/EloiStree/GeneralLicense.git",
@@ -63,7 +63,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "4f581cc76b06ddfeb4a7416f23e1353cd1ad7ebd"
+      "hash": "68d564e38c5aa26e2830b0cccafb3e8e842a1dbc"
     },
     "be.eloistree.unitypackagefacilitator": {
       "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
